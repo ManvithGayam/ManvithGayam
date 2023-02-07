@@ -1,6 +1,6 @@
 <p align="center"><img alt="Profile Banner" src="https://raw.githubusercontent.com/ManvithGayam/ManvithGayam/main/logo-hello.png"></p>
 
-<p align="center"> I am a computer science student with a focus on web development and machine learning, as well as an interest in staying up-to-date on the latest industry trends. </p>
+<p align="center">Computer Science Student</p>
 
 <p align="center"> Visit my <a href="https://manvith.dev"> Portfolio </a> </p>
 
