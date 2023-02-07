@@ -4,7 +4,7 @@
 
 <p align="center"> Visit my <a href="https://manvith.dev"> Portfolio </a> </p>
 
-## Tech-Stack:
+## Tech:
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 <p>
